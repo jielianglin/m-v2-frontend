@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "www.migr-ai-tion.com/precache-manifest.6b8f0dfc939ec996bb3c539f4db814b6.js"
+  "www.jielianglin/github.io/m-v2-frontend/precache-manifest.ddff1e39203a50acf7311de8c962aabf.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("www.migr-ai-tion.com/index.html", {
+workbox.routing.registerNavigationRoute("www.jielianglin/github.io/m-v2-frontend/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
