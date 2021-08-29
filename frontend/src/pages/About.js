@@ -94,7 +94,7 @@ export default function About() {
           <span className="teammates-names" style={{ fontWeight: "bold" }}>Cristian Checcanin (Graphic Design)</span>
           <br />
           <span>
-            Cristian Checcanin is a graphic designer from Columbia, Argentina and Italy. He is currently based in Riyadh, Saudi Arabia
+            Cristian Checcanin is a Columbian-Italian graphic designer. He is currently based in Riyadh, Saudi Arabia
             and has also lived and worked in Hong Kong as a graphic designer. He has been involved in this project since the
             ideation phase, through early feedback and helping to create the name. He worked on the graphic layout of the interface,
             functional buttons and logo design. Cristian is passionate about bringing ideas to life through design, and uses the principle of simplicity for his approach.
