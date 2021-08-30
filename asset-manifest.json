@@ -1,20 +1,28 @@
 {
-  "main.css": "www.jielianglin/github.io/m-v2-frontend/static/css/main.7d3bfe24.chunk.css",
-  "main.js": "www.jielianglin/github.io/m-v2-frontend/static/js/main.c606b15e.chunk.js",
-  "main.js.map": "www.jielianglin/github.io/m-v2-frontend/static/js/main.c606b15e.chunk.js.map",
-  "runtime~main.js": "www.jielianglin/github.io/m-v2-frontend/static/js/runtime~main.19ac458e.js",
-  "runtime~main.js.map": "www.jielianglin/github.io/m-v2-frontend/static/js/runtime~main.19ac458e.js.map",
-  "static/js/2.63eb4e26.chunk.js": "www.jielianglin/github.io/m-v2-frontend/static/js/2.63eb4e26.chunk.js",
-  "static/js/2.63eb4e26.chunk.js.map": "www.jielianglin/github.io/m-v2-frontend/static/js/2.63eb4e26.chunk.js.map",
-  "static/js/3.46ec91a6.chunk.js": "www.jielianglin/github.io/m-v2-frontend/static/js/3.46ec91a6.chunk.js",
-  "static/js/3.46ec91a6.chunk.js.map": "www.jielianglin/github.io/m-v2-frontend/static/js/3.46ec91a6.chunk.js.map",
-  "index.html": "www.jielianglin/github.io/m-v2-frontend/index.html",
-  "precache-manifest.ddff1e39203a50acf7311de8c962aabf.js": "www.jielianglin/github.io/m-v2-frontend/precache-manifest.ddff1e39203a50acf7311de8c962aabf.js",
-  "service-worker.js": "www.jielianglin/github.io/m-v2-frontend/service-worker.js",
-  "static/css/main.7d3bfe24.chunk.css.map": "www.jielianglin/github.io/m-v2-frontend/static/css/main.7d3bfe24.chunk.css.map",
-  "static/media/image1.jpg": "www.jielianglin/github.io/m-v2-frontend/static/media/image1.5322d401.jpg",
-  "static/media/image1.png": "www.jielianglin/github.io/m-v2-frontend/static/media/image1.eed0c256.png",
-  "static/media/image2.png": "www.jielianglin/github.io/m-v2-frontend/static/media/image2.7fba25c7.png",
-  "static/media/image2.jpg": "www.jielianglin/github.io/m-v2-frontend/static/media/image2.a8ce49af.jpg",
-  "static/media/image3.png": "www.jielianglin/github.io/m-v2-frontend/static/media/image3.f294cc5a.png"
+  "files": {
+    "main.css": "./static/css/main.119683e6.chunk.css",
+    "main.js": "./static/js/main.1b0287da.chunk.js",
+    "main.js.map": "./static/js/main.1b0287da.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.db963c45.js",
+    "runtime-main.js.map": "./static/js/runtime-main.db963c45.js.map",
+    "static/js/2.ba17ef5e.chunk.js": "./static/js/2.ba17ef5e.chunk.js",
+    "static/js/2.ba17ef5e.chunk.js.map": "./static/js/2.ba17ef5e.chunk.js.map",
+    "static/js/3.14d0d917.chunk.js": "./static/js/3.14d0d917.chunk.js",
+    "static/js/3.14d0d917.chunk.js.map": "./static/js/3.14d0d917.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.119683e6.chunk.css.map": "./static/css/main.119683e6.chunk.css.map",
+    "static/js/2.ba17ef5e.chunk.js.LICENSE.txt": "./static/js/2.ba17ef5e.chunk.js.LICENSE.txt",
+    "static/media/image1.1410ad84.png": "./static/media/image1.1410ad84.png",
+    "static/media/image1.d28f596f.jpg": "./static/media/image1.d28f596f.jpg",
+    "static/media/image2.38d936ed.jpg": "./static/media/image2.38d936ed.jpg",
+    "static/media/image2.47e3abcc.png": "./static/media/image2.47e3abcc.png",
+    "static/media/image3.267052f9.png": "./static/media/image3.267052f9.png",
+    "static/media/image3.3396c1df.png": "./static/media/image3.3396c1df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db963c45.js",
+    "static/js/2.ba17ef5e.chunk.js",
+    "static/css/main.119683e6.chunk.css",
+    "static/js/main.1b0287da.chunk.js"
+  ]
 }
